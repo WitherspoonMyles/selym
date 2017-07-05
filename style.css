@@ -1,0 +1,46 @@
+body {
+    text-align: right;
+    
+   background-image: url("http://images2.alphacoders.com/190/190270.jpg"); 
+}
+h1 {
+    color: purple;
+    padding: 30px;
+    border: 5px yellow dashed;
+    text-shadow: -20px 10px black;
+    font-family: Rock Salt;
+}
+h2 {
+     color: rebeccapurple;
+    padding: 30px;
+    border: 5px teal dashed;
+    text-shadow: -20px 10px black; 
+    font-family: gorillaz_1;
+    src: url(fonts/gorillaz_1.ttf) 
+}   
+h3 {
+     color: plum;
+    padding: 30px;
+    border: 5px lightsalmon dashed;
+    text-shadow: -20px 10px black;
+    font-family: Rock Salt;
+}
+div {
+    background: aquamarine;
+    width: 50%;
+}
+
+#orange{
+    background:orange
+}
+
+.yellow{
+    background: yellow
+}
+
+
+/*
+Multi-line comment
+/*
+
+
